@@ -1,0 +1,25 @@
+{
+  "name": "backend-lectures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasskazovpavel/backend-lectures.git"
+  },
+  "dependencies": {
+    "yargs": "^17.5.1"
+  },
+  "bin": {
+    "current": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasskazovpavel/backend-lectures/issues"
+  },
+  "homepage": "https://github.com/rasskazovpavel/backend-lectures#readme"
+}
